@@ -1,2 +1,2 @@
-# razorpay-payment-gateway
+# payment-gateway
 using node.js
